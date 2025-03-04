@@ -1,0 +1,142 @@
+
+body {
+    background-color:  #340707;
+    background-image: url('улица.jpg');
+    background-position: top;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+
+.шапка {
+    color:#a1d4db;
+    font-family: 'TT Travels Trial Demibold';
+    src: url('fonts/TT\ Travels\ Next\ Trial\ Demibold.ttf') format('truetype');
+    text-align: center;
+    font-size: 15px;
+    padding: 30px
+}
+
+span2:hover{
+    color:rgb(47, 153, 153);
+    transition: 0.5s;
+}
+
+span3:hover{
+    color:rgb(47, 153, 153);
+    transition: 0.5s;
+}
+
+span4:hover{
+    color:rgb(47, 153, 153);
+    transition: 0.5s;
+}
+
+span1 {
+    padding-right: 20px;
+    color:#e1f3f8
+}
+
+span2 {
+    padding-right: 20px;
+}
+
+span3 {
+    padding-right: 20px;
+}
+
+h1 {
+    color:#b0e0e6;
+    font-family: 'PaluiSPDemo-Bold';
+    src: url('fonth1/PaluiSPDemo-Bold.otf') format('opentype');
+    margin-top: 20px;
+    font-size: 90px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+}
+
+header {
+    font-family: 'TT Travels Trial Demibold';
+    src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');
+    text-align:center;
+    color: #c9e7f3;
+    font-size: 20px;
+}
+
+.блоки {
+    display: flex;
+    text-align:center;
+    margin-top: 50px;
+    font-family: 'TT Travels Trial Demibold';
+    src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');
+    color: #87CEEB;
+    
+}
+
+p{
+    text-align:center;
+}
+
+.блоки ul{ 
+    flex: 1; 
+    padding: 0; 
+    list-style-type: none; 
+}
+
+li{
+    font-size: 25px;
+    transition: 0.15s;
+}
+
+li:hover{
+    font-size: 26px;
+    transition: 0.15s;
+}
+
+a{
+    font-family: 'TT Travels Trial Demibold';
+    src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');
+    color: #b0e0e6;
+}
+
+a:hover{
+    color: rgb(40, 138, 168);
+    transition: 0.15s;
+}
+
+p{
+    max-width: 400px;
+    margin-left: 130px;
+    margin-bottom: 50px;
+    font-size: 15 px;
+}
+
+footer{
+    color: #a1d4db;
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 30px;
+    font-family: 'TT Travels Trial Demibold';
+    src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');
+    font-size: 13px;
+}
+
+@font-face {
+    font-family: 'PaluiSPDemo-Bold';
+    src: url('fonts/PaluiSPDemo-Bold.otf') format('opentype');
+}
+
+@font-face{
+    font-family: 'TT Travels Trial Medium';
+    src: url('fonts/TT\ Travels\ Next\ Trial\ Medium.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: 'TT Travels Trial Demibold';
+    src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');
+}
+
+a{
+    text-decoration: none;
+}
+
