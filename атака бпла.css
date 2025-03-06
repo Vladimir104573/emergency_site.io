@@ -84,6 +84,14 @@ header {
     line-height: 1.6;
 }
 
+img{
+    width: 575px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 3vw;
+    margin-bottom: 3vw
+}
+
 footer{
     font-family: 'TT Travels Trial Demibold';
     src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');

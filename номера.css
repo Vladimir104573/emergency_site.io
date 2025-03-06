@@ -60,10 +60,10 @@ h1 {
     color:#b0e0e6;
     font-family: 'PaluiSPDemo-Bold';
     src: url('fonth1/PaluiSPDemo-Bold.otf') format('opentype');
-    margin-top: 40px;
-    font-size: 75px;
-    margin-bottom: 20px;
-    margin-left: 60px;
+    margin-top: 3vw;
+    font-size: 5.5vw;
+    margin-bottom: 1.5vw;
+    margin-left: 4.5vw;
 }
 
 a{
