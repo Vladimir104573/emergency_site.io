@@ -6,8 +6,6 @@ body {
     background-repeat:no-repeat;
     background-size: cover;
     height: 15vw;
-    max-width: 100%;
-    width: auto;
 }
 
 .шапка {
@@ -35,16 +33,16 @@ span4:hover{
 }
 
 span1 {
-    padding-right: 20px;
+    padding-right: 1.5vw;
     color:#e1f3f8
 }
 
 span2 {
-    padding-right: 20px;
+    padding-right: 1.5vw;
 }
 
 span3 {
-    padding-right: 20px;
+    padding-right: 1.5vw;
 }
 
 h1 {
