@@ -7,8 +7,8 @@ body {
     font-family: 'TT Travels Trial Demibold';
     src: url('fonts/TT\ Travels\ Next\ Trial\ Demibold.ttf') format('truetype');
     text-align: center;
-    font-size: 15px;
-    padding: 30px
+    font-size: 1.1vw;
+    padding: 2vw
 }
 
 
@@ -17,11 +17,11 @@ body {
     src: url('fonts/Lorenzo\ Sans\ Medium.ttf') format('truetype');
     color: #c9e7f3;
     overflow: hidden;
-    margin-left: 65px;
-    margin-right: 65px;
-    font-size: 28px;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    font-size: 1.4vw;
     text-align: left;
-    margin-top: 60px;
+    margin-top: 3vw;
     line-height: 1.6;
 }
 span1:hover{
@@ -40,15 +40,15 @@ span3:hover{
 }
 
 span1 {
-    padding-right: 20px;
+    padding-right: 1.5vw;
 }
 
 span2 {
-    padding-right: 20px;
+    padding-right: 1.5vw;
     
 }
 span3{
-    padding-right: 20px;
+    padding-right: 1.5vw;
 }
 
 span4 {
@@ -82,10 +82,10 @@ footer{
     font-family: 'TT Travels Trial Demibold';
     src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');
     color: #c9e7f3;
-    font-size: 21px;
+    font-size: 1.6vw;
     text-align: center;
-    margin-bottom: 40px;
-    margin-top: 60px
+    margin-bottom: 3vw;
+    margin-top: 4.5vw
 }
 
 @font-face {
