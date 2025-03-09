@@ -78,16 +78,11 @@ header {
     max-width: 100%;
 }
 
-li{
-    width: 100%;
-    display: block;} 
     
 .блоки ul{ 
     flex: 1; 
     padding: 0; 
     list-style-type: none;
-    width: 100%;
-    display: block; 
 }
 
 li{
@@ -111,6 +106,17 @@ a:hover{
     transition: 0.15s;
 }
 
+h2 {
+    color:#b0e0e6;
+    font-family: 'PaluiSPDemo-Bold';
+    src: url('fonth1/PaluiSPDemo-Bold.otf') format('opentype');
+    margin-top: 2vw;
+    font-size: 4vw;
+    text-align: center;
+    width: auto;
+    
+}
+
 p{
     text-align: center;
     margin-right: 8.7vw;
@@ -124,11 +130,25 @@ p{
 footer{
     color: #a1d4db;
     text-align: center;
-    margin-top: 1.5 vw;
+    margin-top: 4vw;
     padding-bottom: 1.7vw;
     font-family: 'TT Travels Trial Demibold';
     src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');
     font-size: 1vw;
+}
+
+.text{
+    font-family: 'Lorenzo Sans Medium';
+    src: url('fonts/Lorenzo\ Sans\ Medium.ttf') format('truetype');
+    color: #c9e7f3;
+    overflow: hidden;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    font-size: 1.4vw;
+    text-align: left;
+    margin-top: 3vw;
+    line-height: 1.6;
+
 }
 
 @font-face {
@@ -144,6 +164,12 @@ footer{
 @font-face{
     font-family: 'TT Travels Trial Demibold';
     src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Lorenzo Sans Medium';
+    src: url('fonts/Lorenzo\ Sans\ Medium.ttf') format('truetype');
 }
 
 a{
