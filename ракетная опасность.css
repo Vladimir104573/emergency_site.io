@@ -86,11 +86,11 @@ header {
 }
 
 img{
-    width: 42vw;
-    max-width: 100%;
+    width: 41vw;
     height: auto;
     margin-top: 3vw;
-    margin-bottom: 3vw
+    margin-bottom: 3vw;
+    ;
 }
 
 span5 {
