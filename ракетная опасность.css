@@ -87,6 +87,7 @@ header {
 
 img{
     width: 48%;
+    min-width: 360px;
     height: auto;
     margin-top: 3vw;
     margin-bottom: 3vw;
