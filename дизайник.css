@@ -51,7 +51,7 @@ h1 {
     src: url('fonth1/PaluiSPDemo-Bold.otf') format('opentype');
     margin-top: 1.5vw;
     font-size: 7vw;
-    margin-bottom: 1.7vw;
+    margin-bottom: 1.5vw;
     margin-left: 6vw;
     width: auto;
     
@@ -110,7 +110,7 @@ h2 {
     color:#b0e0e6;
     font-family: 'PaluiSPDemo-Bold';
     src: url('fonth1/PaluiSPDemo-Bold.otf') format('opentype');
-    margin-top: 2vw;
+    margin-top: 3vw;
     font-size: 4vw;
     text-align: center;
     width: auto;
