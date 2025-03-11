@@ -65,10 +65,10 @@ header {
     font-family: 'TT Travels Trial Demibold';
     src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');
     color: #c9e7f3;
-    font-size: 1.6vw;
+    font-size: 21px;
     text-align: left;
     margin-left: 5vw;
-    text-indent: 3vw
+    text-indent: 40px
 }
 
 
@@ -79,7 +79,7 @@ header {
     overflow: hidden;
     margin-left: 5vw;
     margin-right: 5vw;
-    font-size: 1.4vw;
+    font-size: 19px;
     text-align: left;
     margin-top: 3vw;
     line-height: 1.6;
