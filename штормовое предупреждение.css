@@ -1,8 +1,8 @@
-body {
+body{
     background: linear-gradient(to right, #340707, #660101);
 }
 
-.шапка {
+.шапка{
     color:#a1d4db;
     font-family: 'TT Travels Trial Demibold';
     src: url('fonts/TT\ Travels\ Next\ Trial\ Demibold.ttf') format('truetype');
@@ -11,35 +11,20 @@ body {
     padding: 2vw
 }
 
-span1:hover{
-    color:rgb(47, 153, 153);
-    transition: 0.5s;
-}
-
-span3:hover{
-    color:rgb(47, 153, 153);
-    transition: 0.5s;
-}
-
-span4:hover{
-    color:rgb(47, 153, 153);
-    transition: 0.5s;
-}
-
-span1 {
+span1{
     padding-right: 1.5vw;
 }
 
-span2 {
+span2{
     padding-right: 1.5vw;
     color:#e1f3f8;
 }
 
-span3 {
+span3{
     padding-right: 1.5vw;
 }
 
-h1 {
+h1{
     color:#b0e0e6;
     font-family: 'PaluiSPDemo-Bold';
     src: url('fonth1/PaluiSPDemo-Bold.otf') format('opentype');
@@ -48,7 +33,6 @@ h1 {
     margin-bottom: 1.5vw;
     margin-left: 4.5vw;
 }
-
 
 a{
     text-decoration: none;
@@ -60,7 +44,7 @@ a:hover{
     transition: 0.5s;
 }
 
-header {
+header{
     font-family: 'TT Travels Trial Demibold';
     src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');
     color: #c9e7f3;
@@ -69,7 +53,6 @@ header {
     margin-left: 5vw;
     text-indent: 40px
 }
-
 
 .текст{
     font-family: 'Lorenzo Sans Medium';
@@ -92,18 +75,13 @@ img{
     margin-bottom: 3vw
 }
 
-span5 {
+span5{
     padding-right: 3vw;
 }
 
-span6 {
+span6{
     padding-right: 3vw;
 }
-
-span7 {
-    padding-right: 3vw;
-}
-
 
 footer{
     font-family: 'TT Travels Trial Demibold';

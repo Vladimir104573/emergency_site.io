@@ -1,5 +1,5 @@
 
-body {
+body{
     background-color:  #340707;
     background-image: url('улица.jpg');
     background-position: top;
@@ -8,13 +8,26 @@ body {
     height: 15vw;
 }
 
-.шапка {
+.шапка{
     color:#a1d4db;
     font-family: 'TT Travels Trial Demibold';
     src: url('fonts/TT\ Travels\ Next\ Trial\ Demibold.ttf') format('truetype');
     text-align: center;
     font-size: 1.1vw;
     padding: 2vw;
+}
+
+span1{
+    padding-right: 1.5vw;
+    color:#e1f3f8
+}
+
+span2{
+    padding-right: 1.5vw;
+}
+
+span3{
+    padding-right: 1.5vw;
 }
 
 span2:hover{
@@ -32,20 +45,7 @@ span4:hover{
     transition: 0.5s;
 }
 
-span1 {
-    padding-right: 1.5vw;
-    color:#e1f3f8
-}
-
-span2 {
-    padding-right: 1.5vw;
-}
-
-span3 {
-    padding-right: 1.5vw;
-}
-
-h1 {
+h1{
     color:#b0e0e6;
     font-family: 'PaluiSPDemo-Bold';
     src: url('fonth1/PaluiSPDemo-Bold.otf') format('opentype');
@@ -57,7 +57,7 @@ h1 {
     
 }
 
-header {
+header{
     font-family: 'TT Travels Trial Demibold';
     src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');
     text-align:center;
@@ -68,7 +68,7 @@ header {
     width: auto
 }
 
-.блоки {
+.блоки{
     display: flex;
     text-align: center;
     margin-top: 3.6vw;
@@ -78,7 +78,6 @@ header {
     max-width: 100%;
 }
 
-    
 .блоки ul{ 
     flex: 1; 
     padding: 0; 
@@ -99,6 +98,7 @@ a{
     font-family: 'TT Travels Trial Demibold';
     src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');
     color: #b0e0e6;
+    text-decoration: none;
 }
 
 a:hover{
@@ -106,7 +106,7 @@ a:hover{
     transition: 0.15s;
 }
 
-h2 {
+h2{
     color:#b0e0e6;
     font-family: 'PaluiSPDemo-Bold';
     src: url('fonth1/PaluiSPDemo-Bold.otf') format('opentype');
@@ -151,14 +151,9 @@ footer{
 
 }
 
-@font-face {
+@font-face{
     font-family: 'PaluiSPDemo-Bold';
     src: url('fonts/PaluiSPDemo-Bold.otf') format('opentype');
-}
-
-@font-face{
-    font-family: 'TT Travels Trial Medium';
-    src: url('fonts/TT\ Travels\ Next\ Trial\ Medium.ttf') format('truetype');
 }
 
 @font-face{
@@ -166,13 +161,7 @@ footer{
     src: url('fonts/TT\ Travels\ Next\ Trial\ DemiBold.ttf') format('truetype');
 }
 
-
-@font-face {
+@font-face{
     font-family: 'Lorenzo Sans Medium';
     src: url('fonts/Lorenzo\ Sans\ Medium.ttf') format('truetype');
 }
-
-a{
-    text-decoration: none;
-}
-
